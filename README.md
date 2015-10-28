@@ -1,3 +1,7 @@
+# Setup
+* Add the com.jci.iot.sdk classes to your project
+* Add the Azure IoT Hub SDK .jar file found in the dependencies folder to your project
+
 # Sample Usage
 
 ```
