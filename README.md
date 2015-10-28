@@ -1,5 +1,6 @@
 # Sample Usage
 
+```
 // Device connection string information
 String hubId = "YOUR_HUB_ID";
 String deviceId = "YOUR_DEVICE_ID";
@@ -52,3 +53,4 @@ try {
 } catch (JSONException e) {
 	System.out.println(e.getMessage());
 }
+```
